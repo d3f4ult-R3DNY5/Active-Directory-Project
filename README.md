@@ -24,5 +24,6 @@ This phase involves the installation and configuration of the ISO images and the
 >#### Configurations
 >- Step 1 : [Installing the Server 2022 on VMware workstation](Configuration%20Folder/Installing%20the%20Server%202022%20on%20VMware%20workstation.md)
 >- Step 2 : [Configuring the server 2022](Configuration%20Folder/Configuring%20the%20server%202022.md)
+>- Step 3 : [Adding the Domain services role to the Server 2022](Configuration%20Folder/Adding%20the%20Domain%20services%20role%20to%20the%20Server%202022.md)
 
 
