@@ -33,3 +33,10 @@ This phase involves the installation and configuration of the ISO images and the
 ---
 This phase focuses on common helpdesk-related tasks involving the management of organizational units, users, computers, and groups. It includes creating organizational units, user accounts, and groups, assigning users to groups, and moving users between organizational units. Additional tasks involve managing user accounts by copying existing accounts, resetting and changing passwords, enabling or disabling user accounts, and deleting users or organizational units as required. This phase also covers adding PCs to the network and configuring basic settings on systems joined to the domain.
 
+>[!TIP]
+>#### Active Directory User and Computer Management
+> 1. [Organizational Unit and Group Management](Configuration%20Folder/Organizational%20Unit%20and%20Group%20Management.md)
+> 2. [Creating and managing the Users](Configuration%20Folder/Creating%20and%20managing%20the%20Users.md)
+> 3. [[Adding the computers to the Domain]]
+
+
