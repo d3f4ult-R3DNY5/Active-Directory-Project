@@ -37,6 +37,21 @@ This phase focuses on common helpdesk-related tasks involving the management of 
 >#### Active Directory User and Computer Management
 > 1. [Organizational Unit and Group Management](Configuration%20Folder/Organizational%20Unit%20and%20Group%20Management.md)
 > 2. [Creating and managing the Users](Configuration%20Folder/Creating%20and%20managing%20the%20Users.md)
-> 3. [[Adding the computers to the Domain]]
+> 3. [Adding and managing the computers to the Domain](Configuration%20Folder/Adding%20and%20managing%20the%20computers%20to%20the%20Domain.md)
+
+## Phase 3 : Creating , Managing and Configuring the Group Policies 
+----
+This phase involves the creation, management, and configuration of various Group Policies within the domain. In this section, we will work with the group policies listed below, all of which are managed through the Group Policy Management Console. Group Policy follows the LSDOU hierarchy (Local, Site, Domain, and Organizational Unit) and is applied in a top-down order. In cases where policies conflict, the last policy applied takes precedence, and enforced policies will apply regardless of conflicts.
+
+>[!NOTE]
+>#### Group Policy Management Console 
+>1. [Configuring the GPO for Task Manager for the Sales OU](Configuration%20Folder/Configuring%20the%20GPO%20for%20Task%20Manager%20for%20the%20Sales%20OU.md)
+>2. [Configuring the Screen timeout Policy for the User](Configuration%20Folder/Configuring%20the%20Screen%20timeout%20Policy%20for%20the%20User.md)
+>3. [Configuring the Wallpaper Policy for the the Different OU's](Configuration%20Folder/Configuring%20the%20Wallpaper%20Policy%20for%20the%20the%20Different%20OU's.md)
+>4. [Configuring the Splash Screen Policy](Configuration%20Folder/Configuring%20the%20Splash%20Screen%20Policy.md)
+>5. [Limiting the PowerShell for the people who are not part of the admin Group](Configuration%20Folder/Limiting%20the%20PowerShell%20for%20the%20people%20who%20are%20not%20part%20of%20the%20admin%20Group.md)
+
+
+
 
 

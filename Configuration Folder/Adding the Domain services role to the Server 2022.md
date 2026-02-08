@@ -17,14 +17,14 @@ This write-up outlines the procedure for adding Active Directory Domain Services
 
 1. Changing the IP address ---> Control Panel ---> large icons ---> network and sharing center ---> Ethernet0 ---> properties ---> Internet Protocol Version 4 ---> Select the options `use the following IP address`  and `use the following DNS server Addresses`
 
-![](../Attachments/Pasted%20image%2020260204201329.png)
+
 
 ![](../Attachments/Pasted%20image%2020260204201430.png)
 
 ![](../Attachments/Pasted%20image%2020260204201533.png)
 
 
-![](../Attachments/Pasted%20image%2020260204201957.png)
+![](../Attachments/Pasted%20image%2020260207174318.png)
 
 2. Changing the workstation name ---> Settings -> System -> about -> Rename This PC
 
