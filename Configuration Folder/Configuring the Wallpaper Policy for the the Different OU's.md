@@ -46,4 +46,3 @@ This write-up contains the Group Policy settings used to configure the desktop w
 ![](../Attachments/Pasted%20image%2020260208114511.png)
 
 3. Login in `Bill Murphy` who belongs to the sales account 
-

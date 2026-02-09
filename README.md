@@ -43,7 +43,7 @@ This phase focuses on common helpdesk-related tasks involving the management of 
 ----
 This phase involves the creation, management, and configuration of various Group Policies within the domain. In this section, we will work with the group policies listed below, all of which are managed through the Group Policy Management Console. Group Policy follows the LSDOU hierarchy (Local, Site, Domain, and Organizational Unit) and is applied in a top-down order. In cases where policies conflict, the last policy applied takes precedence, and enforced policies will apply regardless of conflicts.
 
->[!NOTE]
+>[!TIP]
 >#### Group Policy Management Console 
 >1. [Configuring the GPO for Task Manager for the Sales OU](Configuration%20Folder/Configuring%20the%20GPO%20for%20Task%20Manager%20for%20the%20Sales%20OU.md)
 >2. [Configuring the Screen timeout Policy for the User](Configuration%20Folder/Configuring%20the%20Screen%20timeout%20Policy%20for%20the%20User.md)
@@ -51,7 +51,19 @@ This phase involves the creation, management, and configuration of various Group
 >4. [Configuring the Splash Screen Policy](Configuration%20Folder/Configuring%20the%20Splash%20Screen%20Policy.md)
 >5. [Limiting the PowerShell for the people who are not part of the admin Group](Configuration%20Folder/Limiting%20the%20PowerShell%20for%20the%20people%20who%20are%20not%20part%20of%20the%20admin%20Group.md)
 
+## Phase 3 : Deploying the applications in the active directory environment 
+---
+This phase involves the deployment of applications within the Active Directory environment using Group Policies
 
+>[!TIP]
+>- [Application deployment using the Group Polices](Configuration%20Folder/Application%20deployment%20using%20the%20Group%20Polices.md)
 
+## Phase 4 : Creating and Managing the share drives, folders, Roaming profiles in Active Directory 
+---
+This phase involves the creation and management of shared drives, folders, and roaming profiles, as well as assigning users access to shared data. It also includes configuring permissions to control who has access to each drive and folder.
+
+>[!TIP]
+>- [Configuring the Roaming Profiles in the active directory](Configuration%20Folder/Configuring%20the%20Roaming%20Profiles%20in%20the%20active%20directory.md)
+>- [Configuring the Share Folders for the different Groups of the Organization](Configuration%20Folder/Configuring%20the%20Share%20Folders%20for%20the%20different%20Groups%20of%20the%20Organization.md)
 
 
