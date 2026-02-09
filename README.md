@@ -73,3 +73,9 @@ This Phase covers the creation and configuration of Fine-Grained Password Polici
 >[!TIP]
 >- [Configuring the Fine Grain password Policies](Configuration%20Folder/Configuring%20the%20Fine%20Grain%20password%20Policies.md)
 
+## Phase 6 Configuring the Network Printers 
+---
+This phase consists of configuring and deploying printers within the Active Directory environment, including managing access and assigning printers to users or groups.
+
+>[!TIP]
+>- [Configuration of the Printer In the Active Directory](Configuration%20Folder/Configuration%20of%20the%20Printer%20In%20the%20Active%20Directory.md)
