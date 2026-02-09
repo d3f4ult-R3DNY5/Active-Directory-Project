@@ -66,4 +66,10 @@ This phase involves the creation and management of shared drives, folders, and r
 >- [Configuring the Roaming Profiles in the active directory](Configuration%20Folder/Configuring%20the%20Roaming%20Profiles%20in%20the%20active%20directory.md)
 >- [Configuring the Share Folders for the different Groups of the Organization](Configuration%20Folder/Configuring%20the%20Share%20Folders%20for%20the%20different%20Groups%20of%20the%20Organization.md)
 
+## Phase 5 : Setting up the Fine Grain Password Policies 
+---
+This Phase covers the creation and configuration of Fine-Grained Password Policies within an Active Directory environment. Fine-Grained Password Policies allow different password and account lockout settings to be applied to specific users or groups rather than the entire domain. This provides greater flexibility by enabling stronger or customized password requirements for selected groups, such as administrators or sensitive departments, while maintaining standard policies for other users.
+
+>[!TIP]
+>- [Configuring the Fine Grain password Policies](Configuration%20Folder/Configuring%20the%20Fine%20Grain%20password%20Policies.md)
 
