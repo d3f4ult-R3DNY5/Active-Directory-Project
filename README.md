@@ -73,9 +73,20 @@ This Phase covers the creation and configuration of Fine-Grained Password Polici
 >[!TIP]
 >- [Configuring the Fine Grain password Policies](Configuration%20Folder/Configuring%20the%20Fine%20Grain%20password%20Policies.md)
 
-## Phase 6 Configuring the Network Printers 
+## Phase 6 : Configuring the Network Printers 
 ---
 This phase consists of configuring and deploying printers within the Active Directory environment, including managing access and assigning printers to users or groups.
 
 >[!TIP]
 >- [Configuration of the Printer In the Active Directory](Configuration%20Folder/Configuration%20of%20the%20Printer%20In%20the%20Active%20Directory.md)
+
+## Phase 7 : Remote Access to the PC 
+---
+This phase covers the different methods used to remotely access and manage a PC, including Windows Remote Desktop (RDP), Windows Remote Assistance, and Remote Registry controls, allowing administrators to perform support and troubleshooting tasks remotely.
+
+>[!TIP]
+>- [Connecting to the PC using the Windows Remote Desktop Connection](Configuration%20Folder/Connecting%20to%20the%20PC%20using%20the%20Windows%20Remote%20Desktop%20Connection.md)
+>- [Connecting to the PC using the Windows Remote Assistance](Configuration%20Folder/Connecting%20to%20the%20PC%20using%20the%20Windows%20Remote%20Assistance.md)
+>- [Connecting using the remote registry services](Configuration%20Folder/Connecting%20using%20the%20remote%20registry%20services.md)
+
+
