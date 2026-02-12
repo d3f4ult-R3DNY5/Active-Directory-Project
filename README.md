@@ -89,4 +89,20 @@ This phase covers the different methods used to remotely access and manage a PC,
 >- [Connecting to the PC using the Windows Remote Assistance](Configuration%20Folder/Connecting%20to%20the%20PC%20using%20the%20Windows%20Remote%20Assistance.md)
 >- [Connecting using the remote registry services](Configuration%20Folder/Connecting%20using%20the%20remote%20registry%20services.md)
 
+## Phase 8 : Experimenting in AD using the PowerShell 
+---
+This phase covers the different ways PowerShell can be used to simplify repetitive administrative tasks. Through scripting and automation, PowerShell allows administrators to efficiently manage user accounts, including the creation, modification, and deletion of users, reducing manual effort and improving consistency.
+
+>[!TIP]
+>- [Basic Scripts using PowerShell](Configuration%20Folder/Basic%20Scripts%20using%20PowerShell.md)
+
+### Phase 9 : Backing Up the Active directory 
+---
+This phase involves backing up the contents of Active Directory to ensure that critical domain data can be restored in the event of a system failure, crash, or corruption. The backup process protects important components such as user accounts, group policies, organizational units, and other domain configurations. By performing regular backups, the domain controller can be recovered to a previous stable state, helping maintain business continuity and minimize downtime.
+
+>[!TIP]
+>- [Performing and AD backup and restore](Configuration%20Folder/Performing%20and%20AD%20backup%20and%20restore.md) 
+
+
+
 
